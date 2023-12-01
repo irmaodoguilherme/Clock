@@ -1,0 +1,18 @@
+.clock {
+    font-size: 3.8rem;
+    color: white;
+    margin-top: 14rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+span {
+    font-size: 3.5rem;
+    background-color: #333333;
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
+    border-radius: 4px;
+}
