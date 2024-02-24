@@ -1,0 +1,10 @@
+[data-js="clockContainer"] {
+  font-size: 3.8rem;
+  margin-top: 14rem;
+}
+
+span {
+  font-size: 3.5rem;
+  padding-left: 0.4rem;
+  padding-right: 0.4rem;
+}
