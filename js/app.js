@@ -7,9 +7,9 @@ const concatenateZero = unit => unit < 10 ? `0${unit}` : unit
 const formatTimeUnits = units => units.map(concatenateZero)
 
 const getClockHTML = ([hours, minutes, seconds]) => `
-  <span class="bg-dark bg-opacity-75">${hours}</span> :
-  <span class="bg-dark bg-opacity-75">${minutes}</span> :
-  <span class="bg-dark bg-opacity-75">${seconds}</span>
+  <span class="bg-dark">${hours}</span> :
+  <span class="bg-dark">${minutes}</span> :
+  <span class="bg-dark">${seconds}</span>
 `
 
 const getTime = () => {

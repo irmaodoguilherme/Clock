@@ -1,5 +1,5 @@
-[data-js="clockContainer"] {
-  font-size: 3.8rem;
+.clockContainer {
+  font-size: 5.8rem;
   position: fixed;
   inset: 0;
   width: fit-content;
@@ -7,8 +7,8 @@
   margin: auto;
 }
 
-[data-js="clockContainer"] span {
-  font-size: 3.5rem;
+.clockContainer span {
+  font-size: 5.5rem;
   padding-left: 0.4rem;
   padding-right: 0.4rem;
 }
