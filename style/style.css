@@ -13,12 +13,12 @@
   padding-right: 0.4rem;
 }
 
-@media (max-width:480px) {
+@media (min-width:720px) {  
   .clockContainer span {
-    font-size: 12.5rem;
+    font-size: 9.5rem;
   }
 
   .clockContainer {
-    font-size: 12.8rem;
+    font-size: 9.8rem;
   }
 }
