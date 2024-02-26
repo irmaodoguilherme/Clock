@@ -1,9 +1,13 @@
 [data-js="clockContainer"] {
   font-size: 3.8rem;
-  margin-top: 14rem;
+  position: fixed;
+  inset: 0;
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
 }
 
-span {
+[data-js="clockContainer"] span {
   font-size: 3.5rem;
   padding-left: 0.4rem;
   padding-right: 0.4rem;
