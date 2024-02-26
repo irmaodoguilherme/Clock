@@ -1,5 +1,5 @@
 .clockContainer {
-  font-size: 5.8rem;
+  font-size: 6.8rem;
   position: fixed;
   inset: 0;
   width: fit-content;
@@ -8,7 +8,7 @@
 }
 
 .clockContainer span {
-  font-size: 13.5rem;
+  font-size: 6.5rem;
   padding-left: 0.4rem;
   padding-right: 0.4rem;
 }
